@@ -21,7 +21,7 @@ function checkNetworkProvider(str){
          case "74":
          case "76":
          case "75":
-           networKProvider = "Voda"
+           networKProvider = "Vodacom"
          break
          case "71":
          case "65":
