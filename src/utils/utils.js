@@ -39,6 +39,9 @@ function checkNetworkProvider(str){
          case "73":
              networKProvider ="Ttcl"
          break
+         case "62":
+             networKProvider ="Halotel"
+         break
        }
        
     return networKProvider
