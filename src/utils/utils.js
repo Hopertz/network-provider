@@ -21,26 +21,26 @@ function checkNetworkProvider(str){
          case "74":
          case "76":
          case "75":
-           networKProvider = "Vodacom"
+           networKProvider = "VodacomTZ"
          break
          case "71":
          case "65":
          case "67":
-            networKProvider ="Tigo"
+            networKProvider ="TigoTZ"
          break
          case "78":
          case "68":
          case "69":
-            networKProvider = "Airtel"
+            networKProvider = "AirtelTZ"
          break
          case "77":
-             networKProvider ="Zantel"
+             networKProvider ="ZantelTZ"
          break
          case "73":
-             networKProvider ="Ttcl"
+             networKProvider ="TtclTZ"
          break
          case "62":
-             networKProvider ="Halotel"
+             networKProvider ="HalotelTZ"
          break
        }
        
