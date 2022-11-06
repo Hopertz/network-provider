@@ -19,8 +19,8 @@ Example
 
 Output
 ```bash
-Tigo
-Vodacom
+TigoTZ
+VodacomTZ
 ```
 
 **Note:** This only works for Tanzanian mobile numbers.
