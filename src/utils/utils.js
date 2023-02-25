@@ -3,7 +3,7 @@
 // const AIRTEL = ["078", "068", "069"]
 // const TIGO = ["071", "065","067"]
 // const ZANTEL= ["077"]
-// const HALOTEL = ["062"]
+// const HALOTEL = ["062","061"]
 // const Ttcl = ["073"]
 
 
@@ -40,6 +40,7 @@ function checkNetworkProvider(str){
              networKProvider ="TtclTZ"
          break
          case "62":
+         case "61":
              networKProvider ="HalotelTZ"
          break
        }
